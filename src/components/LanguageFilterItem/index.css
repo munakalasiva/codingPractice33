@@ -1,0 +1,11 @@
+.list-item {
+  list-style-type: none;
+}
+.language-btn {
+  border: none;
+  background: transparent;
+}
+.active {
+  border: 1px solid #0284c7;
+  border-radius: 8px;
+}

@@ -1,0 +1,15 @@
+.list-items {
+  display: flex;
+  flex-wrap: wrap;
+}
+.repo-items {
+  display: flex;
+  margin-top: 50px;
+}
+.container {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
